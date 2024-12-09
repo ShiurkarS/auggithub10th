@@ -1,8 +1,8 @@
 package auggithub10th;
 
-public class demo1 {
+public class demo2 {
 	public static void main(String[] args) {
-		System.out.println("Running demo1class");
+		System.out.println("HI FROM SHUBHAM");
 	}
 
 }
